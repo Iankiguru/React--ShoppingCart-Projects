@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "Jacket",
+      "price": 10.99,
+      "imgUrl": "/Images/Image1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Black Boots",
+      "price": 1199,
+      "imgUrl": "/Images/Image2.jpeg"
+    },
+  
+    {
+      "id": 3,
+      "name": "Full drip",
+      "price": 1.05,
+      "imgUrl": "/Images/Image3.jpeg"
+    },
+ 
+    {
+      "id": 4,
+      "name": "Boots",
+      "price": 14000,
+      "imgUrl": "/Images/Image4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Boots",
+      "price": 14000,
+      "imgUrl": "/Images/Image5.jpeg"
+    }
+  ]
