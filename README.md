@@ -1,0 +1,1 @@
+#A collection of React projects, that mainly focus on The shopping cart functionality in an E-commerce site. The projects use different ways and frameworks to manage state and other functionalities in the app.
